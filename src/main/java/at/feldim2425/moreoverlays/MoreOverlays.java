@@ -14,8 +14,8 @@ public class MoreOverlays {
 
 	public static final String MOD_ID = "moreoverlays";
 	public static final String NAME = "MoreOverlays";
-	public static final String VERSION = "1.15.1";
-	public static final String UPDATE_JSON = "https://raw.githubusercontent.com/feldim2425/Mod_Update-JSONs/master/MoreOverlays.json";
+	public static final String VERSION = "1.15.1-technic1";
+	public static final String UPDATE_JSON = "";
 
 
 	@SidedProxy(clientSide = "at.feldim2425.moreoverlays.Proxy")
